@@ -1,13 +1,13 @@
 .cabecalho
 {
-    background: color #383d58;
-    color: white
+    background: color #3f8396;
+    color: rgb(9, 21, 77)
 }    
 h1 { 
     text-align: center;
 }
 h2 {
-    background-color: blueviolet;
+    background-color: rgb(33, 92, 168);
 }
 .imagem{
     width: 20%
