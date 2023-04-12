@@ -1,13 +1,12 @@
 .cabecalho
 {
-    background: color #3f8396;
-    color: rgb(9, 21, 77)
+    background-color: azure;
 }    
 h1 { 
     text-align: center;
 }
 h2 {
-    background-color: rgb(33, 92, 168);
+    background-color: rgb(33, 92, 168)
 }
 .imagem{
     width: 20%
@@ -24,4 +23,7 @@ p {
 .lista{
     display: inline-block;
     margin: 0 16px;
+}
+footer{
+ background-color: antiquewhite;
 }
